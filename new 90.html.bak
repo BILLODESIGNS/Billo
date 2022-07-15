@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>simple basic website page layout</title>
+</head>
+<body>
+<table  border="1" cellspacing="0px" width="95%" height="100%" cellpadding="10px" align="center">
+
+<caption align="center">table learning</caption>
+<tr bgcolor="green">
+<td colspan="2" align="center"><h1>SITE NAME</h1> </td>
+
+</tr>
+<tr>
+<td bgcolor="pink" colspan="2" valign="left"> &nbsp;&nbsp;&nbsp;&nbsp; <a href="">Home</a>&nbsp;&nbsp;&nbsp;           <a href="">gallery</a>  &nbsp;&nbsp;&nbsp;          <a href="">new registeration</a>  &nbsp;&nbsp;&nbsp;        <a href="">FAQS</a></td>
+
+</tr>
+<tr>
+<td bgcolor="blue">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</td>
+<td bgcolor="#76448A" width="10%" height="80%"><ul>  
+
+<li><a href="">Home</a></li>
+<li><a href="">new registeration</a></li>
+<li><a href="">gallery</a></li>
+<li><a href="">FAQS</a></li>
+<li><a href="">Contact us</a></li>
+</ul></td>
+</tr>
+<tr bgcolor="yellow">
+<td colspan="2">Lopelectroni 19esPageMaker including versions of Lorem Ipsum</td>
+
+</tr>
+
+</table>
+</body>
+</html>
